@@ -6,6 +6,7 @@ public class Usa {
 	}
 	public void oilPrice() {
 		System.out.println("Oil price for a Barell is: 10000$");
+		System.out.println("Neekosam");
 	}
 
 }
